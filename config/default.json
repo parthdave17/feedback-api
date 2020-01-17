@@ -1,0 +1,4 @@
+{
+    "name": "Feedback Application",
+    "db": "mongodb://localhost/feedback"
+}
